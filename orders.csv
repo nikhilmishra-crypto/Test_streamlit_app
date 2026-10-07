@@ -1,0 +1,25 @@
+order_id,order_date,customer_id,customer_name,city,category,product,quantity,order_amount,payment_mode
+5001,2024-01-05,1001,Rahul,Delhi,Electronics,Headphones,2,3000,UPI
+5002,2024-01-08,1002,Sneha,Mumbai,Furniture,Chair,1,4500,Card
+5003,2024-01-10,1003,Aman,Pune,Electronics,Mouse,3,2400,Cash
+5004,2024-01-14,1004,Priya,Bengaluru,Clothing,Jacket,2,5200,UPI
+5005,2024-01-18,1005,Neha,Hyderabad,Groceries,Rice Bag,4,3600,Cash
+5006,2024-02-02,1001,Rahul,Delhi,Electronics,Keyboard,2,2800,Card
+5007,2024-02-05,1006,Karan,Pune,Furniture,Table,1,8500,UPI
+5008,2024-02-11,1007,Riya,Chennai,Clothing,Shoes,2,4200,Card
+5009,2024-02-18,1008,Vikas,Kolkata,Electronics,Monitor,1,12000,UPI
+5010,2024-03-01,1002,Sneha,Mumbai,Groceries,Oil,5,2500,Cash
+5011,2024-03-05,1009,Anjali,Jaipur,Furniture,Sofa,1,18000,Card
+5012,2024-03-12,1010,Rohit,Delhi,Electronics,Laptop,1,55000,UPI
+5013,2024-03-20,1003,Aman,Pune,Clothing,T-Shirt,4,3200,Cash
+5014,2024-04-02,1004,Priya,Bengaluru,Furniture,Bookshelf,1,9000,Card
+5015,2024-04-08,1005,Neha,Hyderabad,Electronics,Smartwatch,2,14000,UPI
+5016,2024-04-15,1006,Karan,Pune,Groceries,Dry Fruits,3,4800,Card
+5017,2024-05-01,1007,Riya,Chennai,Electronics,Speaker,2,7000,UPI
+5018,2024-05-10,1008,Vikas,Kolkata,Furniture,Desk,1,9500,Cash
+5019,2024-05-20,1009,Anjali,Jaipur,Clothing,Jeans,3,3900,Card
+5020,2024-06-01,1010,Rohit,Delhi,Electronics,Tablet,2,30000,UPI
+5021,2024-06-05,1001,Rahul,Delhi,Groceries,Flour,6,2400,Cash
+5022,2024-06-12,1002,Sneha,Mumbai,Electronics,Earbuds,2,5600,UPI
+5023,2024-06-18,1006,Karan,Pune,Clothing,Hoodie,2,4400,Card
+5024,2024-06-25,1008,Vikas,Kolkata,Electronics,SSD,2,16000,UPI
